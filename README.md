@@ -6,13 +6,17 @@
 
 ## Languages and tools
 <p align="center">
-  <img width="50px" src="Git.png" alt="qr"/>
-  <img width="50px" src="Airflow.png" alt="qr"/> 
-  <img width="50px" src="postgresql.svg" alt="qr"/> 
-  <img width="50px" src="Clickhouse.svg" alt="qr"/>
-  <img width="50px" src="tableau-icon.svg" alt="qr"/>
   <img width="50px" src="Python.png" alt="qr"/>
   <img width="65px" src="R.png" alt="qr"/
+</p>
+<p align="center">
+  <img width="50px" src="postgresql.svg" alt="qr"/> 
+  <img width="50px" src="Clickhouse.svg" alt="qr"/>
+</p>
+<p align="center">
+  <img width="50px" src="Git.png" alt="qr"/>
+  <img width="50px" src="Airflow.png" alt="qr"/> 
+  <img width="50px" src="tableau-icon.svg" alt="qr"/>
 </p>
 
 ## Контакты
