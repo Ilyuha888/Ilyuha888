@@ -5,7 +5,7 @@
 Главный мой интерес в хардовой части — A/B тестирования и их нюансы (надо же инсайсы проверять), в свободное время почитываю статейки на хабре и медиуме. Из смежных интересов - психология, всегда был неравнодушен к людям, почему они делают то, что делают.
 
 ## Languages and tools
-R (tidyverse, psych, Lavaan), 
+![R](https://github.com/ilyuha888/ilyuha888/R.png) (tidyverse, psych, Lavaan)
 Python (numpy, pandas, skitlearn, statsmodels, pingouin, seaborn)
 [Tableau](https://public.tableau.com/app/profile/ilya.nartov/vizzes)
 SQL (Postgre, ClickHouse)
