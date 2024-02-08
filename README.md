@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <img width="50px" src="postgresql.svg" alt="qr"/> 
-  <img width="50px" src="Clickhouse.svg" alt="qr"/>
+  <img width="56px" src="Clickhouse.svg" alt="qr"/>
 </p>
 <p align="center">
   <img width="50px" src="Git.png" alt="qr"/>
