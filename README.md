@@ -43,5 +43,5 @@ Currently at **Joom** (e-commerce); previously **Yandex Market**, **T-Bank**, **
 
 - Email: [nartov.nartov@gmail.com](mailto:nartov.nartov@gmail.com)
 - Telegram: [@ImmatureTurtle](https://t.me/ImmatureTurtle)
-- LinkedIn: *URL to be added*
+- LinkedIn: [ilyanartov](https://www.linkedin.com/in/ilyanartov/)
 - CV: available on request
