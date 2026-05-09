@@ -16,10 +16,10 @@ Currently at **Joom** (e-commerce); previously **Yandex Market**, **T-Bank**, **
 | # | Repo | What it does |
 |---|------|-------------|
 | 1 | [PAC_cortex](https://github.com/Ilyuha888/PAC_cortex) | Autonomous LLM agent — 43/43 on the BitGN production benchmark. SGR loop, pre-flight assembler, injection-scanning pipeline. |
-| 2 | [Edtech_complex_analysis](https://github.com/Ilyuha888/Edtech_complex_analysis) | A/B test of a new payment mechanic with bootstrap + ClickHouse metric automation. |
-| 3 | [Game_Addiction](https://github.com/Ilyuha888/Game_Addiction) | Bayesian vs frequentist ANOVA, LCA segmentation, power analysis on a 1%-of-population dataset. |
-| 4 | [E-learning](https://github.com/Ilyuha888/E-learning) | Product analytics over 2 years of platform data: metric design, RFM segmentation. |
-| 5 | [Labor-questionarie_processing](https://github.com/Ilyuha888/Labor-questionarie_processing) | Psychometric questionnaire validation (EFA / CFA / ESEM) targeting Q1/Q2 journals. |
+| 2 | [claude-telegram-bot](https://github.com/Ilyuha888/claude-telegram-bot) | Personal AI assistant over Telegram — Claude Code agent with PKM skills, schedulers, and reminders. Built for daily use; ships as a one-command Docker setup. |
+| 3 | [Edtech_complex_analysis](https://github.com/Ilyuha888/Edtech_complex_analysis) | A/B test of a new payment mechanic with bootstrap + ClickHouse metric automation. |
+| 4 | [Game_Addiction](https://github.com/Ilyuha888/Game_Addiction) | Bayesian vs frequentist ANOVA, LCA segmentation, power analysis on a 1%-of-population dataset. |
+| 5 | [E-learning](https://github.com/Ilyuha888/E-learning) | Product analytics over 2 years of platform data: metric design, RFM segmentation. |
 | 6 | [ab_library](https://github.com/Ilyuha888/ab_library) | Small Python helpers for A/B significance & power calculations. |
 
 ## Stack
